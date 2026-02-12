@@ -1,0 +1,11 @@
+{
+  "name": "com.tyradman.projectassetrenamer",
+  "version": "0.9.0",
+  "displayName": "Project Assets Renamer",
+  "description": "A simple tool that manages how project assets are named without having users manually do so. To define naming prefixes based on file extensions, change values at Assets/Editor Default Resources/ProjectNamingData",
+  "unity": "2021.3",
+  "author": {
+    "name": "Ty Radman",
+    "url": "https://github.com/TyRadman"
+  }
+}
